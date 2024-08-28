@@ -4,7 +4,7 @@ public class HelloWorld {
         Class2 c2 = new Class2();
         System.out.println("Hello, World!");
         }
-        private void f2() {
+        private void f3() {
             // Placeholder method (v2.0)
             }
 }
