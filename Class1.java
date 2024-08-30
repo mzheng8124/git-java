@@ -5,4 +5,7 @@ public class Class1 {
     private void f4() {
             // completed
             }
+    private void f5() {
+                // completed
+                }
 }
